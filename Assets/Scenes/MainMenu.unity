@@ -515,6 +515,16 @@ PrefabInstance:
       propertyPath: m_text
       value: Noah Vaters
       objectReference: {fileID: 0}
+    - target: {fileID: 3062724186553635753, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: runSpeed
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3062724186553635753, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: walkSpeed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4174535894395305454, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -569,6 +579,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 9147457390299288725, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_text
+      value: 'By: Noah Vaters'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
